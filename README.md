@@ -1,5 +1,7 @@
 # Week1ChallengeNBS
 
+[Backlog](https://dev.azure.com/asrainaldi/TDP%20-%20Week%201/_workitems)
+
 Week 1 Challenge
 Tasks
 For this weeks challenge, you are tasked with planning and estimating user stories and epics for a small sized project.
