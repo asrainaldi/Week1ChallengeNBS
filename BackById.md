@@ -1,0 +1,24 @@
+-  ID	Work Item Type	Title	Tags
+
+- 6	Epic	Allow paying customers to visit the cinema	Must
+- 7	Feature	Allow users to book a seat at for a future viewing	
+- 8	User Story	As a user when visiting the cinema web site I would like to see the timings of the films	Must
+- 9	Feature	Allow users to see future viewings and create an account	Must
+- 10	Epic	A method to administrate the cinemas website	Must
+- 11	Epic	Allow staff members to manage bookings	Must
+-  12	User Story	As a user when visiting the cinema I would like to create an account so i can make future bookings	Must
+-  13	User Story	As a user when logged into the site I would like to see my previous bookings so i can check my order	Should
+-  14	User Story	As a user when logged in I would like to choose a film to watch so i can start a booking	
+-  15	User Story	As a user when logged in with a film selected I would like to select a time to see the film	Must
+-  16	User Story	As a user when logged in I would like to see the available seats for the film time i have selected so that i can select my seats	Must
+-  17	User Story	As a user I would like to pay for my selected seats so i can create my reservation	Must
+-  18	User Story	As a user when I have created my reservation I would like to receive a confirmation email so i can be assured i have ordered correctly	Should
+-  19	Feature	Allow 3rd party advertisement to the site	Must
+-  20	User Story	As an admin I would like to apply a 3rd party advert into the home page so i can show trailers	Must
+-  21	User Story	As an admin I would like the adverts to be able to be controlled by a 3rd part advertisement provider	Must
+-  22	Feature	Admin area content management	Must
+-  23	User Story	As a Admin I would like an manage the content of the site through an administration portal	Must
+-  24	User Story	As a Admin I would like to administrate the staff members that can use the site so i can update current staff members	Must
+-  25	Feature	Allow Staff member to manage user bookings	Must
+-  26	User Story	As a staff member i would like to be able to edit user bookins by a given order ID so i can change their booking	Must
+-  27	User Story	As a staff member i would like to be able to search for a user booking by name so i can find a booking	Must
