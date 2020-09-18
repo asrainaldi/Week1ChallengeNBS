@@ -8,7 +8,6 @@ https://dev.azure.com/asrainaldi/TDP%20-%20Week%201/_workitems
 - As a user when visiting the cinema web site I would like to see the timings of the films
 - As a user when visiting the cinema I would like to create an account so i can make future bookings
 - As a user when logged into the site I would like to see my previous bookings so i can check my order
-<br/>
 *Feature:* Allow users to book a seat at for a future viewing
 - As a user when logged in I would like to choose a film to watch so i can start a booking
 - As a user when logged in with a film selected I would like to select a time to see the film
