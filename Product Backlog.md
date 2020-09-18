@@ -26,3 +26,10 @@ EPIC: Allow staff members to manage bookings
 F: Staff member 
 - As a staff member i would like to be able to edit user bookins by a given order ID so i can change their booking
 - As a staff member i would like to be able to search for a user booking by name so i can find a booking
+
+
+Priority is describred by using the MoSCoW per release sechedule
+- Must have
+- Should have
+- Could have
+- Will not have
