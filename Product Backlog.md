@@ -10,6 +10,7 @@ https://dev.azure.com/asrainaldi/TDP%20-%20Week%201/_workitems
 - As a user when logged into the site I would like to see my previous bookings so i can check my order
 <br />
 *Feature:* Allow users to book a seat at for a future viewing
+<br />
 - As a user when logged in I would like to choose a film to watch so i can start a booking
 - As a user when logged in with a film selected I would like to select a time to see the film
 - As a user when logged in I would like to see the available seats for the film time i have selected so that i can select my seats
@@ -26,8 +27,9 @@ https://dev.azure.com/asrainaldi/TDP%20-%20Week%201/_workitems
 - As a Admin I would like an manage the content of the site through an administration portal
 - As a Admin I would like to administrate the staff members that can use the site so i can update current staff members
 
-EPIC: Allow staff members to manage bookings <br />
-feature: Staff member 
+**EPIC:** Allow staff members to manage bookings <br />
+*feature:* Staff member
+<br/>
 - As a staff member i would like to be able to edit user bookins by a given order ID so i can change their booking
 - As a staff member i would like to be able to search for a user booking by name so i can find a booking
 
