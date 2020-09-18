@@ -34,6 +34,8 @@ https://dev.azure.com/asrainaldi/TDP%20-%20Week%201/_workitems
 - As a staff member i would like to be able to search for a user booking by name so i can find a booking
 <br/>
 
+Total effort of 76 story points. If we assume 5 point per day per developer = 3 weeks of just development time. Will need to acount for planning, testing, deploying and feedback.
+
 Priority is describred by using the MoSCoW per release sechedule
 - Must have
 - Should have
