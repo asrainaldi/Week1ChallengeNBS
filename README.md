@@ -1,4 +1,4 @@
-# Week1ChallengeNBS
+# Week1 Challenge NBS
 
 [Backlog](https://dev.azure.com/asrainaldi/TDP%20-%20Week%201/_workitems)
 
@@ -25,3 +25,24 @@ Stretch Goals
 Rank your user stories and epics in terms of priority to the project.
 
 Add additional features as user stories that could be implemented in the future.
+
+# How did it go
+
+**How i expected the challange to go**
+<br/>
+Having previous expereince in wiriting user stories I expected it to go smoothly
+<br/>
+
+**What went well**
+<br/>
+Breaking down the stories
+<br/>
+
+**What didn't go to plan**
+<br/>
+Almost forgot to write this
+<br/>
+
+**Possible improvements for fucture challenges**
+<br/>
+We acted as Product owner, develper and scrum master all in one. Maybe a team project might also work?
