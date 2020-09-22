@@ -7,10 +7,10 @@ https://dev.azure.com/asrainaldi/TDP%20-%20Week%201/_workitems
 *Feature:* Allow users to see fucture viewings and create an account
 - As a user when visiting the cinema web site I would like to see the timings of the films
 - As a user when visiting the cinema I would like to create an account so i can make future bookings
+  - **Given** a new user visits the site **When** registration **Then** a new user is created
+
 - As a user when logged into the site I would like to see my previous bookings so i can check my order
---Given a signed in user
-When searching for previous bookings
-Then the list of all previous bookings is shown
+  - **Given** a signed in user **When** searching for previous bookings **Then** the list of all previous bookings is shown
 
 *Feature:* Allow users to book a seat at for a future viewing
 - As a user when logged in I would like to choose a film to watch so i can start a booking
@@ -18,6 +18,7 @@ Then the list of all previous bookings is shown
 - As a user when logged in I would like to see the available seats for the film time i have selected so that i can select my seats
 - As a user I would like to pay for my selected seats so i can create my reservation
 - As a user when I have created my reservation I would like to receive a confirmation email so i can be assured i have ordered correctly
+  - **Given** a valid booking **When** payment has completed **Then** a email is sent to the user
 
 **EPIC:** A method to adminastrate the site
 <br/>
