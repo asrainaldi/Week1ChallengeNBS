@@ -9,7 +9,6 @@ https://dev.azure.com/asrainaldi/TDP%20-%20Week%201/_workitems
   - **Given** a hosted web site **When** a user visits the page **Then** the site should show the current film times
 - As a user when visiting the cinema I would like to create an account so i can make future bookings
   - **Given** a new user visits the site **When** registration **Then** a new user is created
-
 - As a user when logged into the site I would like to see my previous bookings so i can check my order
   - **Given** a signed in user **When** searching for previous bookings **Then** the list of all previous bookings is shown
 
