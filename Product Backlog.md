@@ -6,6 +6,7 @@ https://dev.azure.com/asrainaldi/TDP%20-%20Week%201/_workitems
 <br />
 *Feature:* Allow users to see fucture viewings and create an account
 - As a user when visiting the cinema web site I would like to see the timings of the films
+  - **Given** a hosted web site **When** a user visits the page **Then** the site should show the current film times
 - As a user when visiting the cinema I would like to create an account so i can make future bookings
   - **Given** a new user visits the site **When** registration **Then** a new user is created
 
@@ -14,9 +15,13 @@ https://dev.azure.com/asrainaldi/TDP%20-%20Week%201/_workitems
 
 *Feature:* Allow users to book a seat at for a future viewing
 - As a user when logged in I would like to choose a film to watch so i can start a booking
+  - **Given** a set of available films **When** a film is selected **Then** a user is taken to the booking in page with film selected
 - As a user when logged in with a film selected I would like to select a time to see the film
+  - **Given** a future selected film **When** selecting a time **Then** a user is allowed to select a time for the viewing
 - As a user when logged in I would like to see the available seats for the film time i have selected so that i can select my seats
+  - **Given** a film and time **When** a user selects a seat/s **Then** the user is able to progress the booking
 - As a user I would like to pay for my selected seats so i can create my reservation
+  - **Given** a valid selection **When** a user progresses through to payment **Then** a payment is taken
 - As a user when I have created my reservation I would like to receive a confirmation email so i can be assured i have ordered correctly
   - **Given** a valid booking **When** payment has completed **Then** a email is sent to the user
 
@@ -24,18 +29,24 @@ https://dev.azure.com/asrainaldi/TDP%20-%20Week%201/_workitems
 <br/>
 *feature:* Allow 3rd party advertisment to the site
 - As an admin I would like to apply a 3rd party advert into the home page so i can show trailers
+  - **Given** a advert is to be shown **When** viewing the home screen **Then** a advert is shown
 - As an admin I would like the adverts to be able to be controlled by a 3rd part advertisement provider
+  - **Given** a new new live advert **When** viewing the advert **Then** the current advert is changed 
 
 *feature:* admin area content magaement
 - As a Admin I would like an manage the content of the site through an administration portal
+  - **Given** a CMS system **When** updating the site **Then** the site is updated
 - As a Admin I would like to administrate the staff members that can use the site so i can update current staff members
+  - **Given** a change to the staff **When** updating the staff list **Then** the list of staff users is updated
 <br/>
 
 **EPIC:** Allow staff members to manage bookings 
 <br />
 *feature:* Allow Staff member to manage user bookings
 - As a staff member i would like to be able to edit user bookins by a given order ID so i can change their booking
+  - **Giving** A current booking **When** changing a booking **Then** the booking change is persisted
 - As a staff member i would like to be able to search for a user booking by name so i can find a booking
+  - **Given** a booking detail or a customers details **When** searching for a booking **Then** the booking for that customer us displayed
 <br/>
 
 Total effort of 76 story points. If we assume 5 point per day per developer = 3 weeks of just development time. Will need to acount for planning, testing, deploying and feedback.
