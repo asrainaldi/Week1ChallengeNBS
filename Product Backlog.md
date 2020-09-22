@@ -55,3 +55,15 @@ Priority is describred by using the MoSCoW per release sechedule
 - Should have
 - Could have
 - Will not have
+
+
+**Story point estimation guide:**
+
+0.5 = 30 min work e.g. change text on webpage
+1 = 1 hr work e.g. update Text, CSS and any JS hooks on a page
+3 = half a day of work e.g. add a new form field onto a site
+5 = day of work e.g. implement a new persisted form
+8 = 1.5 days of work e.g. implement a new simple workflow
+13 = 2-3 days of work e.g. implement a new feature set
+20 = A feature detailing a set of stories
+40 = An epic with an single feature set
